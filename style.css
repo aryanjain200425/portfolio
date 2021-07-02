@@ -3,6 +3,8 @@ body{
     height: 1000vh;
     background-color: rgb(39, 38, 38);
     color: rgb(216, 216, 216);
+    cursor: url("droplet.svg");
+    margin-left: 10px;
 
 }
 
